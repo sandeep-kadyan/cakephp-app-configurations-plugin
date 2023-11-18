@@ -1,1 +1,1 @@
-# cakephp-app-configurations-plugin
+# cakephp-configurations-plugin
